@@ -8,3 +8,6 @@ accelerate
 datasets
 pyarrow
 ipykernel
+jupyter
+python-dotenv
+matplotlib
