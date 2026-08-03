@@ -11,3 +11,4 @@ ipykernel==7.3.0
 jupyter==1.1.1
 python-dotenv==1.2.2
 matplotlib==3.10.9
+tensorboard==2.21.0
