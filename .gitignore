@@ -1,1 +1,3 @@
 .env
+my_pipeline/
+.ipynb_checkpoints
