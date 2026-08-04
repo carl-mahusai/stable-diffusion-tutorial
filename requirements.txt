@@ -12,3 +12,5 @@ jupyter==1.1.1
 python-dotenv==1.2.2
 matplotlib==3.10.9
 tensorboard==2.21.0
+wandb==0.28.1
+open_clip_torch==3.3.0
