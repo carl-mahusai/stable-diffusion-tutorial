@@ -3,3 +3,5 @@ my_pipeline/
 .ipynb_checkpoints/
 sd-class-butterflies-64/
 mnist/
+my-finetuned-model/
+test.jpeg
